@@ -1,0 +1,27 @@
+body {
+    background-color: darkgreen;
+}
+
+h1 {
+    color: yellow;
+}
+
+.friend {
+    position: relative;
+    text-transform: uppercase;
+    border: 2px black solid;
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+p {
+    color: green;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h3 {
+    color: Black;
+    text-transform: uppercase;
+    text-align: center;
+}
